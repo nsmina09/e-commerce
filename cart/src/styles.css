@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Prosto+One&family=Roboto:ital,wght@1,700&family=Sevillana&display=swap');
+
+p{
+    font-family: 'Sevillana', cursive;
+    font-size:x-large;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+position: fixed;
+width: 100%;
+top: 0;
+z-index: 1;
+}
+
